@@ -18,5 +18,10 @@
     "text": "I'm angarag 2",
     "rating": 5,
     "createdAt": "2025-10-30T15:34:40.661Z"
+  },
+  {
+    "text": "not ascii өүөүөүөү こんにちは 可刺激 ##@~|{€¥₩●■♡ test by ochir",
+    "rating": 1,
+    "createdAt": "2025-10-30T15:43:14.917Z"
   }
 ]
