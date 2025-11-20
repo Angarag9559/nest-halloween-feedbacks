@@ -13,5 +13,10 @@
     "text": "Hello",
     "rating": 3,
     "createdAt": "2025-11-03T07:42:26.415Z"
+  },
+  {
+    "text": "Bi gomo",
+    "rating": 5,
+    "createdAt": "2025-11-20T01:29:29.073Z"
   }
 ]
